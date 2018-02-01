@@ -1,4 +1,4 @@
-#编译环境
+# 编译环境
 #### 由于reactNativeAndroid ndk支持版本必须为r10e，所以项目根目录下的local.properties文件ndk路径不能指向最新的默认ndk，而需指向android-ndk-r10e，需自己根据系统环境去下载，mac版大约1g，需翻墙，下载链接教程中有列出来。
 * ndk环境[官方教程](http://facebook.github.io/react-native/docs/android-building-from-source.html)，附[mac版下载链接](http://dl.google.com/android/repository/android-ndk-r10e-darwin-x86_64.zip)。
 
@@ -31,7 +31,7 @@
 
 
 
-###附参考文档
+### 附参考文档
 * [React Native For Android 源码编译](https://www.jianshu.com/p/bd4bcdceba9b)
 * [React Native Android源码编译](https://www.jianshu.com/p/fbd29a9799ee)
 * [从源代码编译React Native](https://reactnative.cn/docs/0.24/android-buildingfromsource.html)
